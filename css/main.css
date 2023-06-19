@@ -1,0 +1,30 @@
+/*header start*/
+
+header{
+   text-align: center;
+}
+.image{
+   width: 250px;
+   border-radius: 50%;
+   text-align: center;
+}
+
+.img-time{
+   color: red;
+   font-size: 20px;
+}
+/*header end */
+/*nav start */
+nav{
+   text-align: center;
+}
+.btn-img-pin{
+   width: 11px;
+   height: 16px;
+}
+/*nav end */
+/*section start */
+.heading-style{
+   color: blue;
+}
+/*section end*/
